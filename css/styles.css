@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #C7FBFF;
+}
+
+#results {
+  flex: auto;
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  box-shadow: 2px 2px 5px #ccc;
+  padding: 20px;
+  margin: 50px;
+  background-color: #fff;
+}
+
+h1{
+  font-family: sans-serif;
+}
+
+h3{
+  font-family: sans-serif;
+}
